@@ -4,4 +4,4 @@
 
 ### Requirements
 
-#### 1 - C libcurl  
+#### libcurl  
