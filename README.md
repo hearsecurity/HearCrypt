@@ -4,5 +4,4 @@
 
 # Compilation Step
 
-### $ cd src/
 ### $ gcc HearCrypt.c -o HearCrypt -lcurl
