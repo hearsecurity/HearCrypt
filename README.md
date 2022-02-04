@@ -1,3 +1,3 @@
 # HearCrypt
 
-## HearCrypt is a encryption decryption tool under construction.
+## HearCrypt is a encryption tool under construction.
