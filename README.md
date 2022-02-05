@@ -1,7 +1,13 @@
 # HearCrypt
 
-### HearCrypt is a encryption tool under construction.
+### HearCrypt is a encryption tool.
 
+### Requirements
+
+#### libcurl c 
+
+#### Compilation
 ```
-php inurlbr.php  --dork '"com.br" contato  .xlsx' -m  -s emails.txt -q all
+$ cd src/
+$ gcc HearCrypt.c -o HearCrypt -lcurl
 ```
