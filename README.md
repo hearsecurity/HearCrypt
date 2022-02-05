@@ -2,7 +2,7 @@
 
 ### HearCrypt is a encryption tool.
 
-# Requirements
+## Requirements
 
 #### libcurl c 
 
