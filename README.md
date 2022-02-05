@@ -6,7 +6,7 @@
 
 #### libcurl c 
 
-## Compilation
+## Compilation Steps
 
 ```
 $ cd src/
