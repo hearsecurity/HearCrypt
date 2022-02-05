@@ -4,7 +4,10 @@
 
 ## Requirements
 
-#### libcurl c 
+```
+Link: https://curl.se/libcurl/c/
+```
+ 
 
 ## Compilation Steps
 
