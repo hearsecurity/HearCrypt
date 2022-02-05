@@ -1,8 +1,7 @@
 # HearCrypt
 
-```
-### HearCrypt is a encryption tool.
-```
+## HearCrypt is a encryption tool.
+
 
 ## Requirements
 
