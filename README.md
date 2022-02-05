@@ -6,7 +6,8 @@
 
 #### libcurl c 
 
-#### Compilation
+### Compilation
+
 ```
 $ cd src/
 $ gcc HearCrypt.c -o HearCrypt -lcurl
